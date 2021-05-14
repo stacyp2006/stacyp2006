@@ -17,7 +17,7 @@
   </p>
 
 
-- I’m currently working as a student in the Front End Engineering program at Turing School of Software and Design. I expect to receive my diploma in January 2021
+- I’m currently working as a Senior Software Engineer Intern with Guild Education.
 - While I'm polishing up my JavaScript skills, I'm also gaining proficiency with React/Redux, TypeScript, and Vue. 
 - Pronouns: She/Her
 
