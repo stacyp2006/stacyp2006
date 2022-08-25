@@ -17,7 +17,7 @@
   </p>
 
 
-- I’m currently working as an Engineer I, Software with Guild Education.
+- I’m currently working as an Engineer II, Software with Guild Education.
 - While I'm polishing up my JavaScript skills, I'm also gaining proficiency with React/Redux, TypeScript, and Vue. 
 - Pronouns: She/Her
 
